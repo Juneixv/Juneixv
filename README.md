@@ -1,8 +1,12 @@
 - 👋 Hi, I’m @Juneixv
-- 👀 I’m interested in Programming, UI/UX Design(HCI), Human Factors
+- 👀 I’m interested in Programming, HCI, Human Factors(Ergonomics), UI/UX Design
 - 🌱 I’m currently learning Python, C, C++, Java...etc
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me - 0rafael0@naver.com - 2019112536@dongguk.edu - +82) 10-3346-5611
+- 📫 How to reach me
+        0rafael0@naver.com     (Personal)
+        juneixv@gmail.com      (Contact)
+        2019112536@dongguk.edu (School)
+  
 
 <!---
 Juneixv/Juneixv is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
